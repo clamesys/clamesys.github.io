@@ -1,0 +1,16 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="turn_nev_button">
+<g id="backcircle">
+<path id="back_circle" d="M500 250C500 388.071 388.071 500 250 500C111.929 500 0 388.071 0 250C0 111.929 111.929 0 250 0C388.071 0 500 111.929 500 250Z" fill="#400081"/>
+</g>
+<g id="thev">
+<rect id="Rectangle 1" x="222" y="301.284" width="40" height="40" rx="15" transform="rotate(-45 222 301.284)" fill="white"/>
+<rect id="Rectangle 3" x="233" y="290.208" width="170" height="40" rx="10" transform="rotate(-45 233 290.208)" fill="white"/>
+<circle id="Ellipse 1" cx="359.5" cy="192" r="20" fill="white"/>
+<rect id="Rectangle 3_2" width="170" height="40" rx="10" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 267.492 290.208)" fill="white"/>
+<circle id="Ellipse 1_2" r="20" transform="matrix(-1 0 0 1 140.992 192)" fill="white"/>
+<rect id="Rectangle 4" x="202" y="252" width="92" height="21" fill="white"/>
+<rect id="Rectangle 5" x="222.4" y="245.142" width="39.799" height="39.397" rx="10" transform="rotate(-45 222.4 245.142)" fill="#400080"/>
+</g>
+</g>
+</svg>

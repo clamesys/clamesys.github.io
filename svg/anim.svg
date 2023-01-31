@@ -1,0 +1,23 @@
+<svg width="1500" height="1000" viewBox="0 0 1500 1000" fill="none"
+	xmlns="http://www.w3.org/2000/svg">
+	<g id="Desktop - 1">
+		<g id="grp1">
+			<circle id="circle1" cx="750" cy="500" r="250" fill="#B46024" fill-opacity="0.55"/>
+			<circle id="circle2" cx="750" cy="500" r="200" fill="#B46024" fill-opacity="0.55"/>
+			<circle id="circle3" cx="750" cy="500" r="150" fill="#B46024" fill-opacity="0.55"/>
+			<circle id="circle4" cx="750" cy="500" r="100" fill="#B46024" fill-opacity="0.55"/>
+		</g>
+		<g id="grp2">
+			<circle id="circle1_2" cx="750" cy="500" r="250" fill="#B46024" fill-opacity="0.55"/>
+			<circle id="circle2_2" cx="750" cy="500" r="200" fill="#B46024" fill-opacity="0.55"/>
+			<circle id="circle3_2" cx="750" cy="500" r="150" fill="#B46024" fill-opacity="0.55"/>
+		</g>
+		<g id="grp3">
+			<circle id="circle1_3" cx="750" cy="500" r="200" fill="#B46024" fill-opacity="0.55"/>
+			<circle id="circle2_3" cx="750" cy="500" r="250" fill="#B46024" fill-opacity="0.55"/>
+		</g>
+		<g id="grp4">
+			<circle id="circle1_4" cx="750" cy="500" r="250" fill="#B46024" fill-opacity="0.55"/>
+		</g>
+	</g>
+</svg>

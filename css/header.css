@@ -1,0 +1,35 @@
+.header_top{
+    position: fixed;
+    top: 20px;
+    right: 2%;
+    left: 2%;
+    background-color: rgba(94, 16, 0, 0);
+    /* background-image: linear-gradient(62deg, #5e1000 0%, #01abff 82%, #ffffff 100%);     */
+    border-radius: 50px;
+    z-index: 20;
+}
+.nevbar{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.5rem 3rem;
+}
+.button_menu{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 50px;
+    width: 120px;
+    background-color: rgba(128, 255, 255, 0);
+    border-color: rgba(240, 248, 255, 0);
+    padding: 0rem 1rem;
+    cursor: pointer;
+}
+.menu{
+    color: black;
+    transition: all 0.3s ease-in;
+}
+.button_menu:hover > .menu{
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 10px darkblue;
+}
